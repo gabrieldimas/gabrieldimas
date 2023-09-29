@@ -6,5 +6,5 @@
 </p>
 
 <p align="center">
-<img src="https://i.pinimg.com/originals/96/18/6b/96186b308addc3c4700a26adb3aac278.gif" alt="gif" />
+<img src="https://64.media.tumblr.com/f7cd096f108d83c988169096361972fc/tumblr_ov6razBJ961qzop1co2_500.gif" alt="gif" />
 </p>
