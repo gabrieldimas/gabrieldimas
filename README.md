@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media.tenor.com/v8HL0rYSh18AAAAd/japan.gif" alt="gif" />
+<img src="[https://media.tenor.com/v8HL0rYSh18AAAAd/japan.gif](https://www.google.com/search?q=retro%20style%20japan%20room%20gif&tbm=isch&tbs=rimg:CUsHxA0T4AwAYbTNfu1BahdZsgITCgIIABAAOgQIABAAQAFV8FIoP8ACANgCAOACAA&hl=id&sa=X&ved=0CBkQuIIBahcKEwjI6b_uxc-BAxUAAAAAHQAAAAAQPw&biw=1519&bih=747#imgrc=prbf5HbyIM4ubM&imgdii=fyR5l4IDsto3aM)" alt="gif" />
 </p><br>
 <div align="center">
   <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=D4E7F7&width=435&lines=Hi+there%2C+I'm+Gabriel+Dimas+Wicaksono!" alt="Typing SVG" /></a>
