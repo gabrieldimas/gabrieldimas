@@ -1,13 +1,7 @@
 <p align="center">
 <img src="https://media.tenor.com/v8HL0rYSh18AAAAd/japan.gif" alt="gif" />
+<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=D4E7F7&width=435&lines=Hi+there%2C+I'm+Gabriel+Dimas+Wicaksono!" alt="Typing SVG" /></a>
 </p>
-
-<h1 align="center">Hi 👋, I'm Gabriel Dimas Wicaksono</h1>
-<h3 align="center">A junior UI/UX Designer from Indonesia</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrieldimas&label=Profile%20views&color=0e75b6&style=flat" alt="gabrieldimas" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabrieldimas" alt="gabrieldimas" /></a> </p>
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
