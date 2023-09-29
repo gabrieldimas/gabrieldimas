@@ -12,7 +12,7 @@
 - 📫 How to reach me **gabrieldimas49@gmail.com**
 <hr>
 <div align="center">
-  <h3>Connect with me:</h3>
+  <h4>Connect with me:</h4>
 <p>
   <a href="https://linkedin.com/in/gabriel-dimas-wicaksono-5aa0b925a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-dimas-wicaksono-5aa0b925a/" height="30" width="40" /></a>
   <a href="https://instagram.com/@gabrieldimas___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@gabrieldimas___" height="30" width="40" /></a>
