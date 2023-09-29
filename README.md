@@ -1,9 +1,9 @@
 <p align="center">
 <img src="https://media.tenor.com/v8HL0rYSh18AAAAd/japan.gif" alt="gif" />
-  
-<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=D4E7F7&width=435&lines=Hi+there%2C+I'm+Gabriel+Dimas+Wicaksono!" alt="Typing SVG" /></a>
-</p>
-
+</p><br>
+<div align="center>
+  <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&pause=1000&color=D4E7F7&width=435&lines=Hi+there%2C+I'm+Gabriel+Dimas+Wicaksono!" alt="Typing SVG" /></a>
+</div><hr>
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 💬 Ask me about **UI/UX, Digital Marketing, and Graphic Design**
@@ -18,7 +18,6 @@
 <a href="https://www.behance.net/gabrieldimas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="gabrieldimas" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldimas&show_icons=true&locale=en&layout=compact" alt="gabrieldimas" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrieldimas&show_icons=true&locale=en" alt="gabrieldimas" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrieldimas&show_icons=true&locale=en&layout=compact" alt="gabrieldimas" /></p>
