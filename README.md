@@ -1,5 +1,5 @@
 <h2 align='center'>
-   Welcome, I'm Gabriel 🖐
+   Hi, I'm Gabriel 🖐
 </h2>
 <p align='center'>
    <i>dont forget, 1% each day</i>
