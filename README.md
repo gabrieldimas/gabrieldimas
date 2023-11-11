@@ -6,7 +6,5 @@
 </p>
 
 <p align="center">
-   <div style="max-width: 420px;">
-        <img src="https://cdnb.artstation.com/p/assets/images/images/044/404/283/original/umut-keroglu-2.gif" alt="gif" />
-  </div>
+   <img src="https://i.pinimg.com/originals/0e/79/8f/0e798f91138755ce7386df586f6feb3b.gif" alt="gif" />
 </p>
